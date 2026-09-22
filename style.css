@@ -1,0 +1,43 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: darkblue;
+     text-align: center;
+     font-size: 32px;
+}
+h2 {
+    color: darkgreen;
+    margin-top: 25px;
+}
+.intro {
+    font-size: 18px;
+    line-height: 1.6;
+}
+p {
+    font-family: Arial;
+    margin-bottom: 10px;
+}
+body {
+    background-color: rgb(226, 111, 17);
+    color: black;
+    padding: 20px;
+}
+ul, ol {
+    line-height: 1.8;
+}
+table {
+    width: 200px;
+    text-align: center;
+}
+th, td {
+    padding: 5px;
+}
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+}
+.contact-heading {
+    text-decoration: underline;
+}
